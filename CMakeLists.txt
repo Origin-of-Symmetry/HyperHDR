@@ -26,7 +26,7 @@ set(CMAKE_AUTORCC ON)
 
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 
-# Set build variables
+# Set build variabbles
 SET ( DEFAULT_PROTOBUF                    ON  )
 SET ( DEFAULT_WS281XPWM                   OFF )
 SET ( DEFAULT_USE_SYSTEM_FLATBUFFERS_LIBS ON  )
